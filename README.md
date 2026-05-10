@@ -80,4 +80,4 @@ Performed:
 
 The Logistic Regression model achieved good accuracy on both training and testing datasets, making it effective for heart disease prediction.
 
----
+
