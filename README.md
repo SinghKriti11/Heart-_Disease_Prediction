@@ -21,25 +21,15 @@ The project includes:
 
 # 🧠 Machine Learning Workflow
 
-# 1️⃣ Importing Required Libraries
-# 2️⃣ Dataset Loading
-# 3️⃣ Data Analysis & Preprocessing
+- Imported required Python libraries  
+- Loaded and explored the dataset  
+- Performed data preprocessing and analysis  
+- Split dataset into training and testing sets  
+- Trained Logistic Regression model  
+- Evaluated model accuracy  
+- Built a predictive system for custom input data
 
-Performed:
-- Dataset inspection
-- Shape checking
-- Null value checking
-- Statistical summary
-- Target value distribution
-- Feature-target separation
-
-## 4️⃣ Splitting Dataset
-## 5️⃣ Model Training
-
-### ✅ Logistic Regression
-
-## 6️⃣ Model Evaluation
-## 7️⃣ Building Predictive System
+---  
 
 # 📊 Dataset Details
 
