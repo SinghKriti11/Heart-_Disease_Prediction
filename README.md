@@ -21,9 +21,9 @@ The project includes:
 
 # 🧠 Machine Learning Workflow
 
- 1️⃣ Importing Required Libraries
- 2️⃣ Dataset Loading
- 3️⃣ Data Analysis & Preprocessing
+# 1️⃣ Importing Required Libraries
+# 2️⃣ Dataset Loading
+# 3️⃣ Data Analysis & Preprocessing
 
 Performed:
 - Dataset inspection
