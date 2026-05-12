@@ -19,7 +19,6 @@ The project includes:
 
 ---
 
-
 # 🧠 Machine Learning Workflow
 
 - Imported required Python libraries  
