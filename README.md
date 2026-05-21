@@ -66,7 +66,6 @@ Performed:
 
 ---
 
-
 # 🚀 Technologies Used
 
 - Python
