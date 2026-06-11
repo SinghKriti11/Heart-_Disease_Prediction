@@ -4,7 +4,7 @@ A Machine Learning project that predicts the likelihood of heart disease using p
 
 ---
 
-# 📌 Project Overview      
+# 📌 Project Overview        
  
 Heart disease is one of the major causes of death worldwide. Early prediction can help healthcare professionals take preventive measures and provide better treatment.
 
