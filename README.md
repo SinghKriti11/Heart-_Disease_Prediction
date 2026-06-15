@@ -15,7 +15,7 @@ The project includes:
 - Exploratory Data Analysis (EDA)
 - Model training and evaluation
 - Predictive system development
-- Accuracy analysis
+- Accuracy analysis  
 
 ---
 
