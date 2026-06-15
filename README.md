@@ -12,7 +12,7 @@ This project aims to build a machine learning model capable of predicting heart 
 
 The project includes:
 - Data preprocessing
-- Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA) 
 - Model training and evaluation
 - Predictive system development 
 - Accuracy analysis  
